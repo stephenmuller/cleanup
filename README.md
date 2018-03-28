@@ -1,3 +1,3 @@
 # cleanup
-cleaning up the mess
-things for peers to review 
+Cleaning up the mess.
+Things for peers to review/clarify
